@@ -1,0 +1,17 @@
+#dod{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-variant: small-caps;
+    font-weight: 999;
+    font-size: 20px;
+    text-decoration: underline;
+    text-align: center;
+    text-indent: 7cm;
+    text-transform: capitalize;
+}
+#dof:hover{
+    color: aquamarine;
+}
+a{
+    text-decoration: none;
+}
